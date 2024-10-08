@@ -1,2 +1,2 @@
 # Labs
-Labs "Programming Fundamentals"
+1st lab
