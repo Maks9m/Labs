@@ -2,7 +2,7 @@ const objects = [ false, 23, 'Yes', 3, 4, false, 'Student', 'No', true, 0, true,
 const counter = {}
 
 objects.forEach((a) => {
-    const type = typeof a;
+const type = typeof a;
 if(!(type in counter))
     {
         counter[type] = 0;
