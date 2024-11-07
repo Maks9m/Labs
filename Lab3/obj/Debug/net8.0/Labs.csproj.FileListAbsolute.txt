@@ -1,0 +1,15 @@
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/bin/Debug/net8.0/Labs
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/bin/Debug/net8.0/Labs.deps.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/bin/Debug/net8.0/Labs.runtimeconfig.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/bin/Debug/net8.0/Labs.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/bin/Debug/net8.0/Labs.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.AssemblyInfoInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.AssemblyInfo.cs
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.csproj.CoreCompileInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.sourcelink.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/refint/Labs.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/Labs.genruntimeconfig.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab3/obj/Debug/net8.0/ref/Labs.dll
