@@ -1,6 +1,4 @@
 ﻿//Exercise 1
-using Microsoft.VisualBasic;
-
 int Random(int min, int max)
 {
     Random random = new Random();
