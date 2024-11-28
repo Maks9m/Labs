@@ -28,3 +28,23 @@ string generatePassword(int length, string keys)
 }
 Console.WriteLine(generatePassword(10, characters));
 
+//Exercise 3
+string IPv4 = "127.0.0.1";
+int IPv4ToNumber(string address)
+{
+    int[] addressElements = Array.ConvertAll<string, int>(address.Split('.'), int.Parse);
+
+    int shifts = 3;
+    int result = 0;
+    for (int elementIndex = 0; elementIndex < addressElements.Length; elementIndex++)
+    {
+        for(int i = shifts - elementIndex; i > 0; i--)
+        {
+            addressElements[elementIndex] = addressElements[elementIndex] << 8;
+        }
+        result += addressElements[elementIndex];
+    }
+   return result;
+}
+Console.Write(IPv4ToNumber(IPv4));
+
