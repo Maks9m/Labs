@@ -47,7 +47,7 @@ console.log(key); // eg599gb60q926j8i
   m2: function (x, y) {
     return [x, y];
   },
-  m3:(x, y, z) {
+  m3(x, y, z) {
     return [x, y, z];
   }
 }
