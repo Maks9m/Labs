@@ -7,13 +7,13 @@ int Random(int min, int max)
     Random random = new Random();
     return random.Next(min, max);
 }
-Console.WriteLine(Random(1, 10));
+Console.WriteLine(Random(1, 10) + "\n");
 
 int Random1(int max, int min = 0)
 {
     return Random(min, max);
 }
-Console.WriteLine(Random1(10));
+Console.WriteLine(Random1(10) + "\n");
 
 //Exercise 2
 string characters = "abcdefghijklmnopqrstuvwxyz0123456789";
@@ -29,7 +29,7 @@ string generatePassword(int length, string keys)
     string result = new string(password);
     return result;
 }
-Console.WriteLine(generatePassword(10, characters));
+Console.WriteLine(generatePassword(10, characters) + "\n");
 
 //Exercise 3
 string IPv4 = "127.0.0.1";
@@ -50,6 +50,7 @@ int IPv4ToNumber(string address)
     return result;
 }
 Console.Write(IPv4ToNumber(IPv4));
+Console.WriteLine("\n");
 
 //Exercise 4
 ExampleClass iface = new ExampleClass();
