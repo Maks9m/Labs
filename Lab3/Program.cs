@@ -1,4 +1,7 @@
-﻿//Exercise 1
+﻿using System.Reflection;
+using Microsoft.VisualBasic;
+
+//Exercise 1
 int Random(int min, int max)
 {
     Random random = new Random();
@@ -38,13 +41,54 @@ int IPv4ToNumber(string address)
     int result = 0;
     for (int elementIndex = 0; elementIndex < addressElements.Length; elementIndex++)
     {
-        for(int i = shifts - elementIndex; i > 0; i--)
+        for (int i = shifts - elementIndex; i > 0; i--)
         {
             addressElements[elementIndex] = addressElements[elementIndex] << 8;
         }
         result += addressElements[elementIndex];
     }
-   return result;
+    return result;
 }
 Console.Write(IPv4ToNumber(IPv4));
 
+//Exercise 4
+ExampleClass iface = new ExampleClass();
+
+void ClassFunctionsInfo(ExampleClass exampleClass)
+{
+    
+    var results = GetFunctionInfo(exampleClass);
+
+    foreach (var row in results)
+    {
+        Console.WriteLine($"{row[0]}, {row[1]}");
+    }
+}
+
+List<string[]> GetFunctionInfo(object obj)
+{
+    var results = new List<string[]>();
+
+    //Отримуємо всі члени обʼєкта
+    var members = obj.GetType().GetMembers(BindingFlags.Public | BindingFlags.Instance);
+
+    foreach (var member in members)
+    {
+        if (member.MemberType == MemberTypes.Method) //Перевіряємо чи є член методом
+        {
+            var methodInfo = (MethodInfo)member;
+            var parameterCount = methodInfo.GetParameters().Length; //Визначаємо кількість параметрів
+            results.Add(new[] { methodInfo.Name, parameterCount.ToString() });
+        }
+    }
+    return results;
+}
+
+ClassFunctionsInfo(iface);
+
+class ExampleClass
+{
+    public int Method1(int a) => a;
+    public int[] Method2(int a, int b) => [a, b];
+    public int[] Method3(int a, int b, int c) => [a, b, c];
+}
