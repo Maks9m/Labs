@@ -1,0 +1,15 @@
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/bin/Debug/net8.0/Program
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/bin/Debug/net8.0/Program.deps.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/bin/Debug/net8.0/Program.runtimeconfig.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/bin/Debug/net8.0/Program.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/bin/Debug/net8.0/Program.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.sourcelink.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/refint/Program.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/Program.genruntimeconfig.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab4/obj/Debug/net8.0/ref/Program.dll
