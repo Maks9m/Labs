@@ -1,0 +1,15 @@
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/bin/Debug/net8.0/Lab7
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/bin/Debug/net8.0/Lab7.deps.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/bin/Debug/net8.0/Lab7.runtimeconfig.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/bin/Debug/net8.0/Lab7.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/bin/Debug/net8.0/Lab7.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfoInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfo.cs
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.csproj.CoreCompileInputs.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.sourcelink.json
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/refint/Lab7.dll
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.pdb
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/Lab7.genruntimeconfig.cache
+/Users/maksymkramarenko/Documents/GitHub/Labs/Lab7/obj/Debug/net8.0/ref/Lab7.dll
