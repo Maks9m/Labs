@@ -8,10 +8,11 @@ contains `phone`.
 Use `hash[key]` to find needed phone. */
 
 const phonebook = {
-  Gumball: +1234567890,
-  Darvin: +9876543210,
+  'Gumball': +1234567890,
+  'Darvin': +9876543210,
 };
 
 const findPhoneByName = (name) => phonebook[name];
+console.log(findPhoneByName('Gumball'));
 
 module.exports = { phonebook, findPhoneByName };
